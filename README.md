@@ -9,6 +9,7 @@ The algorithm worked by taking 35 second videos at 30 fps of hand signs for each
 
 ## Running this project
 1. Install Jetson Inference Library
-2. `imagenet.py --model=resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=labels.txt input output`
+2. Download/clone the project reposatory onto device 
+3. Run this command in the project folder:`imagenet.py --model=resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=labels.txt input output`
 
 [View a video explanation here](video link)
