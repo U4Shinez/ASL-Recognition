@@ -14,4 +14,5 @@ The algorithm worked by taking 35 second videos at 30 fps of hand signs for each
 
 ## Resources
 [Jetson-Inference Library](https://github.com/dusty-nv/jetson-inference/tree/master)
+
 [View a video explanation here](https://drive.google.com/file/d/1Dyi7YSmz4RfLGuaz1L48nzKutFYDn9d2/view?usp=sharing)
